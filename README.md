@@ -12,7 +12,12 @@ o intuito do nosso projeto é demonstrar como um trabalho obsesivo pode consumir
 
 HISTÓRIA
 
-a
+Adoniran Barbosa é um assistente de loja que está muito cansado e muito atrasado para voltar para casa e ver sua família, era 11 horas da noite na estação da luz e ele tinha que pegar um trem para consegui voltar para casa. Mas o trem possuía um ar macabro, uma aparência antiquada, recebendo assim vários boatos, superstições e mitos. Porém, Adoniran não iria acreditar em mitos sem fundamentos, ele era um homem sério, profissional e pai de família, não teria o motivo de temer um velho trem e se atrasar para ver seus filhos, então ele entra no trem estranho.
+
+Quando Adoniran entra no trem, ele percebe está completamente vazio, então no caminho de espera Adoniran acaba caindo no sono. Quando ele acorda percebe que o trem mudou de aparência, agora com uma aparência nada amigável, com buracos no chão além de objetos espalhados no trem. O homem vê monstros à sua frente, criaturas com uma aparência cadavérica e roupas rasgadas e mofadas.  Seu coração começa a bater mais forte, experenciando na própria pele que não era só meros boatos, então Barbosa decidi fugir pelos vagões por sua própria vida.
+
+Após fugir do primeiro vagão o trem se transforma ainda mais, com placas escritas para fugir e olhos aparecendo das janelas, mas ainda a quantidade de monstros aumenta. Mesmo com o caminho ficando mais difícil Adoniran consegue ultrapassar o desafio e chega ao final do segundo vagão passando por uma porta. Ele acorda e percebe que está justamente na estação perto da sua casa, saindo correndo daquele trem até sua família, decidindo assim se dedicar a passar mais tempo com ela.
+
 
 ELEMENTOS
 
@@ -24,4 +29,6 @@ Para os personagens usamos modelos grátis da loja do Unity, para o Adoniran usa
 
 LINKS DE REFERENCIAS E ASSETS STORE
 
-a
+[a](https://assetstore.unity.com/packages/3d/characters/creatures/skeleton-ghost-free-226070)
+
+[a](https://assetstore.unity.com/packages/3d/characters/humanoids/fantasy/free-low-poly-human-rpg-character-219979)
