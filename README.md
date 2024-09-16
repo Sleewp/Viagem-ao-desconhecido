@@ -29,6 +29,6 @@ Para os personagens usamos modelos grátis da loja do Unity, para o Adoniran usa
 
 LINKS DE REFERENCIAS E ASSETS STORE
 
-[a](https://assetstore.unity.com/packages/3d/characters/creatures/skeleton-ghost-free-226070)
+[modelo Skeleton Ghost (FREE)](https://assetstore.unity.com/packages/3d/characters/creatures/skeleton-ghost-free-226070)
 
-[a](https://assetstore.unity.com/packages/3d/characters/humanoids/fantasy/free-low-poly-human-rpg-character-219979)
+[modelo FREE low poly man – RPG Character](https://assetstore.unity.com/packages/3d/characters/humanoids/fantasy/free-low-poly-human-rpg-character-219979)
