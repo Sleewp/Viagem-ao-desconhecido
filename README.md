@@ -4,7 +4,8 @@ por: Isaque Dias, Kauan de Carlo Merida, Matheus Henrique e Pedro Santos
 
 IDEIA
 
-A ideia do nosso
+A ideia do nosso jogo foi concebida com a musica O Trem das Onzes e Samba Midnight, sendo por causa do contexto da musica O Trem das Onzes e o evento principal do Samba Midnight.
+
 
 OBJETIVO
 
