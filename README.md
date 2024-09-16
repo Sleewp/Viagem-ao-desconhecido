@@ -4,7 +4,7 @@ por: Isaque Dias, Kauan de Carlo Merida, Matheus Henrique e Pedro Santos
 
 IDEIA
 
-a
+A ideia do nosso
 
 OBJETIVO
 
@@ -26,6 +26,14 @@ Nos elementos do Unity nós temos sete planos, para o chão, teto, paredes e por
 Para os obstáculos e as lâmpadas foram usados objetos 3d do unity como cubos e cilindros, e usamos o componente Light para poder colocar luzes nos objetos, entregando a ideia de ser lâmpadas ou objetos sobrenaturais.
 
 Para os personagens usamos modelos grátis da loja do Unity, para o Adoniran usamos o modelo do “FREE low poly man – RPG Character” e para os monstros usamos o modelo “Skeleton Ghost (FREE)”. Também usamos Physic Material e RigidBody em ambos os personagens, para que eles possuíssem colisão e tivessem gravidade. E por fim usamos Script C# para poder programar a movimentação de Adoniran.
+
+PALETA DE CORES
+
+As cores principais do Adoniran, dos monstros e do trem será azul, cinza, preto e tons de vermelho.  
+Azul escuro representa o profissionalismo do personagem por ter ficado até tarde em seu trabalho porque precisaram de sua ajuda e por querer sustentar sua família, os zumbis usam o Azul para representar o profissionalismo do homem vindo o atormentar. 
+Cinza é usado para a representação da neutralidade que o trem aparenta ter. 
+O preto representa o Mal-estar que o personagem está sentido dentro dele
+Vermelho representa o perigo que os monstros representam para ele que são inimigos internos dele o atormentando
 
 LINKS DE REFERENCIAS E ASSETS STORE
 
