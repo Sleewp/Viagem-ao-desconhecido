@@ -3,6 +3,7 @@ Projeto SP 470 anos.
 por: Isaque Dias, Kauan de Carlo Merida, Matheus Henrique e Pedro Santos
 
 IDEIA
+
 a
 
 OBJETIVO
@@ -10,6 +11,7 @@ OBJETIVO
 o intuito do nosso projeto é demonstrar como um trabalho obsesivo pode consumir a vida de uma pessoa na cidade de São Paulo, conscientizando sobre o desgaste emocional e físico que muitos trabalhadores sofrem, principalmente em cidades urbanas grandes como São Paulo.
 
 HISTÓRIA
+
 a
 
 ELEMENTOS
@@ -21,3 +23,5 @@ Para os obstáculos e as lâmpadas foram usados objetos 3d do unity como cubos e
 Para os personagens usamos modelos grátis da loja do Unity, para o Adoniran usamos o modelo do “FREE low poly man – RPG Character” e para os monstros usamos o modelo “Skeleton Ghost (FREE)”. Também usamos Physic Material e RigidBody em ambos os personagens, para que eles possuíssem colisão e tivessem gravidade. E por fim usamos Script C# para poder programar a movimentação de Adoniran.
 
 LINKS DE REFERENCIAS E ASSETS STORE
+
+a
