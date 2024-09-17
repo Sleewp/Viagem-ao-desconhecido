@@ -31,6 +31,7 @@ Nos elementos do Unity nós temos sete planos, para o chão, teto, paredes e por
 Para os obstáculos e as lâmpadas foram usados objetos 3d do unity como cubos e cilindros, e usamos o componente Light para poder colocar luzes nos objetos, entregando a ideia de ser lâmpadas ou objetos sobrenaturais.
 
 Para os personagens usamos modelos grátis da loja do Unity, para o Adoniran usamos o modelo do “FREE low poly man – RPG Character” e para os monstros usamos o modelo “Skeleton Ghost (FREE)”. Também usamos Physic Material e RigidBody em ambos os personagens, para que eles possuíssem colisão e tivessem gravidade. E por fim usamos Script C# para poder programar a movimentação de Adoniran.
+![image](https://github.com/user-attachments/assets/295c44da-c51c-40de-ac97-91b4ee0c0458)
 
 PALETA DE CORES
 
