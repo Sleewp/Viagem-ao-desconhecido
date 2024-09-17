@@ -4,8 +4,11 @@ por: Isaque Dias, Kauan de Carlo Merida, Matheus Henrique e Pedro Santos
 
 IDEIA
 
-A ideia do nosso jogo foi concebida com a musica O Trem das Onzes e Samba Midnight, sendo por causa do contexto da musica O Trem das Onzes e o evento principal do Samba Midnight.
+A ideia do nosso jogo foi concebida com a musica O Trem das Onzes e Samba Midnight, sendo por causa do contexto da musica O Trem das Onzes e o evento principal do Samba Midnight, assim surgiu a ideia de entidades sobrenaturais em um ambiente de trem assombrado.
 
+![image](https://github.com/user-attachments/assets/665e4b37-cf8b-4e63-bb22-e6ca4b3466f3)
+
+![image](https://github.com/user-attachments/assets/ee19c53b-0a00-4edf-bbc7-741cdec630e2)
 
 OBJETIVO
 
@@ -24,9 +27,17 @@ ELEMENTOS
 
 Nos elementos do Unity nós temos sete planos, para o chão, teto, paredes e portas. Colocamos um Material com uma imagem de um trem para a parede maior e um material cor cinza com aspecto metálico para o chão e o teto. Os dois planos menores foram para usados para ficar ao redor da porta como paredes, usamos um Material diferente com um cinza claro sem tanto o toque metálico. E dois planos ainda menores para ser as portas, usamos um Material com uma imagem de porta de trem para ambas as portas.
 
+![image](https://github.com/user-attachments/assets/295c44da-c51c-40de-ac97-91b4ee0c0458)
+
 Para os obstáculos e as lâmpadas foram usados objetos 3d do unity como cubos e cilindros, e usamos o componente Light para poder colocar luzes nos objetos, entregando a ideia de ser lâmpadas ou objetos sobrenaturais.
 
+![image](https://github.com/user-attachments/assets/88a4c749-9c68-4605-ba11-9751a74e9ec4)
+
 Para os personagens usamos modelos grátis da loja do Unity, para o Adoniran usamos o modelo do “FREE low poly man – RPG Character” e para os monstros usamos o modelo “Skeleton Ghost (FREE)”. Também usamos Physic Material e RigidBody em ambos os personagens, para que eles possuíssem colisão e tivessem gravidade. E por fim usamos Script C# para poder programar a movimentação de Adoniran.
+
+![image](https://github.com/user-attachments/assets/949a09fa-8d25-4151-b17f-52a168399003)
+
+![image](https://github.com/user-attachments/assets/497b0086-05e6-4129-8810-76501d9c46b1)
 
 para os testos utilizamos a função de texto do unity, assim as adicionamos as cenas para descrever falas do protagonista ou outros personagens, e o menu foi utilizado o canvas, um elemento do UI do Unity, possuindo três botões e três textos.
 
