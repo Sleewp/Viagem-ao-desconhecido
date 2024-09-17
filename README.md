@@ -28,6 +28,8 @@ Para os obstáculos e as lâmpadas foram usados objetos 3d do unity como cubos e
 
 Para os personagens usamos modelos grátis da loja do Unity, para o Adoniran usamos o modelo do “FREE low poly man – RPG Character” e para os monstros usamos o modelo “Skeleton Ghost (FREE)”. Também usamos Physic Material e RigidBody em ambos os personagens, para que eles possuíssem colisão e tivessem gravidade. E por fim usamos Script C# para poder programar a movimentação de Adoniran.
 
+para os testos utilizamos a função de texto do unity, assim as adicionamos as cenas para descrever falas do protagonista ou outros personagens, e o menu foi utilizado o canvas, um elemento do UI do Unity, possuindo três botões e três textos.
+
 PALETA DE CORES
 
 As cores principais do Adoniran, dos monstros e do trem será azul, cinza, preto e tons de vermelho.  
